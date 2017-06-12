@@ -1,0 +1,11 @@
+name: data_science_capstone_app
+title: Data Science Capstone APP
+account: xujz4f
+server: shinyapps.io
+appId: 188174
+bundleId: 862674
+url: https://xujz4f.shinyapps.io/data_science_capstone_app/
+when: 1497241122.03183
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bigram.RData|quadgram.RData|Rcode.R|Slide.Rpres|trigram.RData
